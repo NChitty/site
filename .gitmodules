@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = assets/chirpy-static-assets
+	url = git@github.com:cotes2020/chirpy-static-assets.git
+[submodule "assets/lib"]
+	path = assets/lib
+	url = git@github.com:cotes2020/chirpy-static-assets.git
