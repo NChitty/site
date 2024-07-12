@@ -5,7 +5,7 @@ description: >-
   in Computer Science and Electrical Engineering, specializing in Verilog/VHDL, embedded software,
   and SaaS backend development. Passionate about solving complex problems through technology.
 baseurl: ""
-url: "https://chittyinsights.dev"
+url: "https://www.chittyinsights.dev"
 
 theme: jekyll-theme-chirpy
 plugins:
@@ -18,9 +18,10 @@ social:
   name: Nicholas Chitty
   email: nicholas.chitty@gmail.com
   links:
-    # The first element serves as the copyright owner's link
     - https://github.com/NChitty
     - https://www.linkedin.com/in/nicholas-chitty/
+
+avatar: /commons/nchitty-headshot.jpg
 
 # ------------ The following options are not recommended to be modified ------------------
 
